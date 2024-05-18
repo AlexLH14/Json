@@ -1,0 +1,27 @@
+{
+      "libros": [
+            {
+                  "titulo": "Hello World",
+                  "autor": "4ds",
+                  "informacion": {
+                        "editorial": "5ds",
+                        "ultima_actualizacion": "15-05-2023",
+                        "disponibilidad": false
+                  },
+                  "ISBN": "1234567890",
+                  "a\u00f1o": "2021",
+                  "isbn": "2sd"
+            },
+            {
+                  "titulo": "Hola",
+                  "autor": "alex",
+                  "a\u00f1o": "2021",
+                  "isbn": "d1",
+                  "informacion": {
+                        "editorial": "lll",
+                        "ultima_actualizacion": "10-10-2023",
+                        "disponibilidad": false
+                  }
+            }
+      ]
+}
